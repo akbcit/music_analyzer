@@ -1,2 +1,2 @@
-# music_analyzer/__init__.py
+# audio_analyzer_analyzer/__init__.py
 
