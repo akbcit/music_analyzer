@@ -11,4 +11,4 @@ This project uses Essentia via Docker to analyze audio files. Place your audio f
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/akbcit/music_analyzer.git
